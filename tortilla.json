@@ -1,0 +1,502 @@
+[
+   {
+      "question":"¿Cuál es el ingrediente principal de la tortilla de patatas?",
+      "answers":[
+         "Patatas",
+         "Huevos",
+         "Cebollas",
+         "Aceite de oliva"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué ingrediente se utiliza para cuajar la tortilla?",
+      "answers":[
+         "Patatas",
+         "Huevos",
+         "Cebollas",
+         "Sal"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el tipo de aceite más utilizado para freír las patatas en la tortilla?",
+      "answers":[
+         "Aceite de girasol",
+         "Aceite de oliva",
+         "Aceite de maíz",
+         "Mantequilla"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿En qué país es tradicional la tortilla de patatas?",
+      "answers":[
+         "México",
+         "Argentina",
+         "España",
+         "Chile"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cómo se llama el utensilio utilizado para dar la vuelta a la tortilla?",
+      "answers":[
+         "Espátula",
+         "Plato",
+         "Sartén",
+         "Cuchara"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué ingrediente opcional se añade a veces a la tortilla de patatas?",
+      "answers":[
+         "Tomate",
+         "Cebolla",
+         "Pimiento",
+         "Jamón"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el grosor típico de una tortilla de patatas tradicional?",
+      "answers":[
+         "1 cm",
+         "2 cm",
+         "3 cm",
+         "4 cm"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué técnica se utiliza para cocinar las patatas antes de mezclarlas con el huevo?",
+      "answers":[
+         "Asarlas",
+         "Hervirlas",
+         "Freírlas",
+         "Gratinarlas"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cómo se llama la tortilla de patatas en algunas regiones de España?",
+      "answers":[
+         "Tortilla española",
+         "Tortilla francesa",
+         "Omelette",
+         "Frittata"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es la consistencia ideal del interior de la tortilla de patatas?",
+      "answers":[
+         "Seca",
+         "Jugosa",
+         "Crujiente",
+         "Quemada"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué utensilio se usa para batir los huevos en la preparación de la tortilla?",
+      "answers":[
+         "Cuchara",
+         "Tenedor",
+         "Batidora",
+         "Varillas eléctricas"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿En qué momento se añade la sal en la preparación de la tortilla de patatas?",
+      "answers":[
+         "Al freír las patatas",
+         "Al batir los huevos",
+         "Al final de la cocción",
+         "Antes de servir"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es una variante común de la tortilla de patatas?",
+      "answers":[
+         "Con chorizo",
+         "Con queso",
+         "Con espinacas",
+         "Todas las anteriores"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué tipo de patatas se recomienda usar para la tortilla?",
+      "answers":[
+         "Patatas nuevas",
+         "Patatas viejas",
+         "Patatas dulces",
+         "Cualquier tipo"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cómo se denomina la tortilla sin patatas en España?",
+      "answers":[
+         "Tortilla francesa",
+         "Tortilla de maíz",
+         "Omelette",
+         "Frittata"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es el origen histórico de la tortilla de patatas?",
+      "answers":[
+         "Siglo XVIII",
+         "Siglo XIX",
+         "Siglo XX",
+         "Siglo XVII"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué utensilio es esencial para cocinar una tortilla de patatas?",
+      "answers":[
+         "Sartén antiadherente",
+         "Olla a presión",
+         "Horno",
+         "Plancha"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué se debe hacer para que la tortilla no se pegue a la sartén?",
+      "answers":[
+         "Usar mucho aceite",
+         "Calentar bien la sartén",
+         "Usar una sartén de hierro",
+         "Añadir harina"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué región de España disputa el origen de la tortilla de patatas?",
+      "answers":[
+         "Galicia",
+         "Navarra",
+         "País Vasco",
+         "Extremadura"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cómo se llama la tortilla de patatas cuando se sirve en pequeñas porciones como aperitivo?",
+      "answers":[
+         "Pintxo",
+         "Tapas",
+         "Montadito",
+         "Ración"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el término para una tortilla de patatas poco cocida en su interior?",
+      "answers":[
+         "Tortilla líquida",
+         "Tortilla jugosa",
+         "Tortilla babé",
+         "Tortilla seca"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué se hace con las patatas después de freírlas y antes de mezclarlas con el huevo?",
+      "answers":[
+         "Se escurren",
+         "Se aplastan",
+         "Se enfrían",
+         "Se salan"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es la proporción ideal de huevos por kilo de patatas?",
+      "answers":[
+         "3 huevos",
+         "5 huevos",
+         "7 huevos",
+         "9 huevos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué técnica se utiliza para dar la vuelta a la tortilla sin romperla?",
+      "answers":[
+         "Usar una tapa",
+         "Usar dos sartenes",
+         "Hornearla",
+         "No darle la vuelta"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué condimento se puede añadir para realzar el sabor de la tortilla?",
+      "answers":[
+         "Pimienta",
+         "Azúcar",
+         "Pimentón",
+         "Orégano"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es una alternativa saludable al freír las patatas para la tortilla?",
+      "answers":[
+         "Asarlas",
+         "Hervirlas",
+         "Microondas",
+         "Todas las anteriores"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué tipo de cebolla se prefiere para añadir a la tortilla?",
+      "answers":[
+         "Cebolla blanca",
+         "Cebolla roja",
+         "Cebolla dulce",
+         "No se añade cebolla"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es el nombre de la polémica sobre añadir o no cebolla a la tortilla?",
+      "answers":[
+         "Con cebolla o sin cebolla",
+         "Guerra de la cebolla",
+         "Debate culinario",
+         "Controversia de la tortilla"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué se puede añadir para hacer una tortilla más esponjosa?",
+      "answers":[
+         "Levadura",
+         "Leche",
+         "Agua",
+         "Nada"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué bebida suele acompañar a la tortilla de patatas en España?",
+      "answers":[
+         "Vino tinto",
+         "Cerveza",
+         "Sangría",
+         "Agua"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué utensilio es útil para remover las patatas mientras se fríen?",
+      "answers":[
+         "Cuchara de madera",
+         "Pinzas",
+         "Cuchillo",
+         "Tenedor"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es una manera de reducir el contenido graso de la tortilla?",
+      "answers":[
+         "Usar menos aceite",
+         "Freír a baja temperatura",
+         "Escurrir bien las patatas",
+         "Añadir más huevos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué variedad de tortilla incluye chorizo en su preparación?",
+      "answers":[
+         "Tortilla española",
+         "Tortilla riojana",
+         "Tortilla paisana",
+         "Tortilla francesa"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es la temperatura adecuada para freír las patatas?",
+      "answers":[
+         "Fuego alto",
+         "Fuego medio",
+         "Fuego bajo",
+         "No importa"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué se consigue al freír las patatas a fuego medio?",
+      "answers":[
+         "Que se doren",
+         "Que se cocinen por dentro",
+         "Que queden crujientes",
+         "Que se quemen"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué tipo de sartén es ideal para hacer tortilla?",
+      "answers":[
+         "Antiadherente",
+         "Hierro fundido",
+         "Acero inoxidable",
+         "Cobre"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué sucede si se baten demasiado los huevos para la tortilla?",
+      "answers":[
+         "Queda más esponjosa",
+         "Queda más dura",
+         "No cuaja bien",
+         "No afecta"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el diámetro recomendado de la sartén para una tortilla de 4 personas?",
+      "answers":[
+         "20 cm",
+         "24 cm",
+         "28 cm",
+         "32 cm"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cómo se llama el proceso de dejar reposar la mezcla antes de cocinarla?",
+      "answers":[
+         "Maceración",
+         "Fermentación",
+         "Reposo",
+         "Ninguno"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué se puede hacer para que la tortilla tenga una forma más redondeada?",
+      "answers":[
+         "Usar un molde",
+         "Dar forma con la espátula",
+         "Cocinar a fuego alto",
+         "Nada"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es una técnica para lograr una tortilla más jugosa?",
+      "answers":[
+         "Añadir más aceite",
+         "Cocinar menos tiempo",
+         "Usar más huevos",
+         "Cocinar a fuego alto"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué se puede hacer si la tortilla se pega a la sartén?",
+      "answers":[
+         "Añadir más aceite",
+         "Cambiar de sartén",
+         "Bajar el fuego",
+         "Nada"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué ingrediente se puede añadir para una versión vegetariana con más sabor?",
+      "answers":[
+         "Calabacín",
+         "Berenjena",
+         "Espinacas",
+         "Todos los anteriores"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Cuál es el tiempo aproximado de cocción por cada lado de la tortilla?",
+      "answers":[
+         "2 minutos",
+         "5 minutos",
+         "10 minutos",
+         "15 minutos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué hace que la tortilla se dore por fuera?",
+      "answers":[
+         "Fuego alto",
+         "Fuego medio",
+         "Fuego bajo",
+         "Uso de azúcar"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cómo se denomina la tortilla de patatas en inglés?",
+      "answers":[
+         "Spanish omelette",
+         "Potato pancake",
+         "Potato pie",
+         "Egg and potato dish"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué se debe hacer si la tortilla está demasiado cruda por dentro?",
+      "answers":[
+         "Cocinar más tiempo a fuego bajo",
+         "Subir el fuego",
+         "Añadir más huevos",
+         "Nada"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué variedad de tortilla incluye pimientos y guisantes?",
+      "answers":[
+         "Tortilla paisana",
+         "Tortilla española",
+         "Frittata",
+         "Omelette"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué acción mejora la textura de las patatas en la tortilla?",
+      "answers":[
+         "Freírlas lentamente",
+         "Cortarlas en rodajas finas",
+         "Machacarlas",
+         "Hervirlas primero"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es una señal de que la tortilla está lista para ser volteada?",
+      "answers":[
+         "Los bordes están firmes",
+         "La superficie está líquida",
+         "Se despega de la sartén",
+         "Empieza a humear"
+      ],
+      "correct_answer":0
+   }
+]
