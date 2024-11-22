@@ -1,0 +1,1112 @@
+[
+   {
+      "question":"¿Qué componente es considerado el cerebro de un ordenador?",
+      "answers":[
+         "Unidad de procesamiento gráfico (GPU)",
+         "Memoria de acceso aleatorio (RAM)",
+         "Unidad central de procesamiento (CPU)",
+         "Disco duro (HDD)"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál de los siguientes es un sistema operativo?",
+      "answers":[
+         "Microsoft Word",
+         "Linux",
+         "Google Chrome",
+         "Adobe Photoshop"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla RAM?",
+      "answers":[
+         "Random Access Memory",
+         "Read-Only Memory",
+         "Run Access Memory",
+         "Readable Action Module"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es la función principal de un servidor en una red?",
+      "answers":[
+         "Almacenar datos y recursos para ser compartidos",
+         "Proporcionar energía eléctrica a los dispositivos",
+         "Conectar dispositivos a Internet",
+         "Controlar el flujo de información en una red"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué protocolo se utiliza para transferir archivos a través de Internet?",
+      "answers":[
+         "HTTP",
+         "FTP",
+         "SMTP",
+         "DNS"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué dispositivo permite conectar una red local a Internet?",
+      "answers":[
+         "Switch",
+         "Router",
+         "Hub",
+         "Firewall"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una dirección IP?",
+      "answers":[
+         "Un protocolo de transferencia de archivos",
+         "Una dirección única asignada a cada dispositivo en una red",
+         "Un tipo de malware",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué comando se utiliza en Windows para comprobar la conectividad de red?",
+      "answers":[
+         "ping",
+         "ipconfig",
+         "netstat",
+         "tracert"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es el propósito del firewall en seguridad informática?",
+      "answers":[
+         "Proteger contra virus",
+         "Bloquear accesos no autorizados",
+         "Respaldar datos",
+         "Actualizar software"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el phishing?",
+      "answers":[
+         "Un tipo de ataque de ingeniería social",
+         "Un software antivirus",
+         "Una técnica de compresión de datos",
+         "Un protocolo de seguridad"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál de los siguientes es un lenguaje de programación de alto nivel?",
+      "answers":[
+         "HTML",
+         "Python",
+         "SQL",
+         "CSS"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un SSD en términos de hardware?",
+      "answers":[
+         "Un tipo de memoria volátil",
+         "Una unidad de estado sólido para almacenamiento",
+         "Un dispositivo de entrada",
+         "Un tipo de tarjeta gráfica"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla HTTP?",
+      "answers":[
+         "HyperText Transfer Protocol",
+         "HyperText Transmission Program",
+         "High Transfer Text Protocol",
+         "Hyperlink Text Transfer Protocol"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué herramienta permite administrar las unidades de disco en Windows?",
+      "answers":[
+         "Administrador de tareas",
+         "Explorador de archivos",
+         "Administración de discos",
+         "Panel de control"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál de las siguientes es una dirección MAC válida?",
+      "answers":[
+         "192.168.1.1",
+         "00:1A:2B:3C:4D:5E",
+         "255.255.255.0",
+         "localhost"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué comando en Linux se utiliza para listar archivos en un directorio?",
+      "answers":[
+         "ls",
+         "cd",
+         "mkdir",
+         "rm"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un cable UTP en redes?",
+      "answers":[
+         "Un cable de fibra óptica",
+         "Un cable de par trenzado sin blindaje",
+         "Un cable coaxial",
+         "Un cable HDMI"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es la principal función de un DNS?",
+      "answers":[
+         "Asignar direcciones IP",
+         "Traducir nombres de dominio en direcciones IP",
+         "Proporcionar conectividad inalámbrica",
+         "Almacenar archivos en la nube"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una máquina virtual?",
+      "answers":[
+         "Un tipo de hardware físico",
+         "Un software que emula un sistema operativo",
+         "Un dispositivo de almacenamiento externo",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una copia de seguridad (backup)?",
+      "answers":[
+         "Una actualización de software",
+         "Una copia de datos para restaurarlos en caso de pérdida",
+         "Un antivirus",
+         "Un sistema de gestión de bases de datos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el software de código abierto?",
+      "answers":[
+         "Software con licencia propietaria",
+         "Software cuya fuente está disponible para ser modificada",
+         "Software gratuito sin licencia",
+         "Software que no requiere instalación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una red LAN?",
+      "answers":[
+         "Una red de área local",
+         "Una red de área amplia",
+         "Una red inalámbrica",
+         "Una red privada virtual"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué tipo de malware se replica a sí mismo para infectar otros archivos?",
+      "answers":[
+         "Virus",
+         "Spyware",
+         "Troyano",
+         "Ransomware"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es la función principal de un switch en una red?",
+      "answers":[
+         "Conectar múltiples dispositivos y reenviar datos dentro de una red local",
+         "Proporcionar acceso a Internet",
+         "Proteger la red de ataques",
+         "Almacenar archivos compartidos"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la virtualización en informática?",
+      "answers":[
+         "La creación de una versión virtual de un dispositivo o recurso",
+         "El almacenamiento de datos en la nube",
+         "La protección contra virus",
+         "La programación de aplicaciones móviles"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un sistema operativo?",
+      "answers":[
+         "Un software que gestiona los recursos de hardware y software",
+         "Un programa antivirus",
+         "Un tipo de hardware",
+         "Una aplicación de oficina"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué significa la sigla BIOS?",
+      "answers":[
+         "Basic Input/Output System",
+         "Binary Input/Output System",
+         "Basic Internet Operating System",
+         "Binary Internet Operating System"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una dirección URL?",
+      "answers":[
+         "Un tipo de protocolo de red",
+         "La dirección de una página web en Internet",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es la función del protocolo SMTP?",
+      "answers":[
+         "Transferencia de archivos",
+         "Resolución de nombres de dominio",
+         "Envío de correos electrónicos",
+         "Conexión segura a sitios web"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué herramienta de Windows permite administrar los procesos en ejecución?",
+      "answers":[
+         "Panel de control",
+         "Administrador de tareas",
+         "Explorador de archivos",
+         "Programas y características"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla GUI?",
+      "answers":[
+         "Graphical User Interface",
+         "Global User Internet",
+         "General User Input",
+         "Graphic Universal Interface"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un firewall?",
+      "answers":[
+         "Un dispositivo de almacenamiento",
+         "Un software o hardware que bloquea accesos no autorizados",
+         "Un tipo de virus informático",
+         "Un componente del hardware de red"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el protocolo HTTPS?",
+      "answers":[
+         "Una versión segura de HTTP",
+         "Un protocolo para transferir archivos",
+         "Un sistema de gestión de bases de datos",
+         "Un lenguaje de programación web"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál de las siguientes es una distribución de Linux?",
+      "answers":[
+         "Ubuntu",
+         "Windows 10",
+         "macOS",
+         "Android"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la nube en informática?",
+      "answers":[
+         "Un dispositivo de almacenamiento físico",
+         "Un servicio de almacenamiento y servicios en servidores remotos",
+         "Un virus informático",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué tipo de memoria almacena datos temporalmente mientras el ordenador está encendido?",
+      "answers":[
+         "ROM",
+         "RAM",
+         "SSD",
+         "HDD"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el software malicioso diseñado para solicitar un rescate?",
+      "answers":[
+         "Spyware",
+         "Adware",
+         "Ransomware",
+         "Rootkit"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué significa la sigla IP en redes?",
+      "answers":[
+         "Internet Protocol",
+         "Internal Process",
+         "Integrated Platform",
+         "Information Provider"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es el propósito de un SAI (UPS en inglés)?",
+      "answers":[
+         "Proporcionar energía eléctrica ininterrumpida",
+         "Aumentar la velocidad del procesador",
+         "Mejorar la calidad de la señal de red",
+         "Proteger contra virus"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una red WAN?",
+      "answers":[
+         "Una red de área local",
+         "Una red de área amplia",
+         "Una red inalámbrica",
+         "Una red privada virtual"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál de los siguientes es un sistema de gestión de bases de datos relacionales?",
+      "answers":[
+         "MySQL",
+         "HTML",
+         "FTP",
+         "SMTP"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un driver en informática?",
+      "answers":[
+         "Un programa que controla un dispositivo de hardware",
+         "Un tipo de malware",
+         "Una aplicación de oficina",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la ingeniería social en seguridad informática?",
+      "answers":[
+         "El diseño de software",
+         "El estudio de la interacción humano-computadora",
+         "La manipulación para obtener información confidencial",
+         "La programación de aplicaciones web"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es un parche de software?",
+      "answers":[
+         "Una actualización para corregir errores o vulnerabilidades",
+         "Una copia de seguridad",
+         "Un software antivirus",
+         "Un programa de edición"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una VPN?",
+      "answers":[
+         "Una red de área local",
+         "Un protocolo de transferencia de archivos",
+         "Una red privada virtual",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué lenguaje se utiliza para estructurar contenido en la web?",
+      "answers":[
+         "HTML",
+         "C++",
+         "Python",
+         "Java"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el overclocking en un procesador?",
+      "answers":[
+         "Reducir la velocidad del procesador",
+         "Aumentar la velocidad más allá de las especificaciones",
+         "Apagar el procesador",
+         "Actualizar el procesador"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla SSD?",
+      "answers":[
+         "Solid State Drive",
+         "Secure System Data",
+         "Simple Storage Device",
+         "System Software Disk"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es la función de un sistema operativo?",
+      "answers":[
+         "Ejecutar aplicaciones de oficina",
+         "Gestionar recursos de hardware y software",
+         "Proteger contra virus",
+         "Diseñar páginas web"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un script en informática?",
+      "answers":[
+         "Un programa escrito en un lenguaje de scripting",
+         "Un tipo de hardware",
+         "Un virus informático",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el protocolo DHCP?",
+      "answers":[
+         "Asignación dinámica de direcciones IP",
+         "Transferencia de archivos",
+         "Envío de correos electrónicos",
+         "Resolución de nombres de dominio"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una partición en un disco duro?",
+      "answers":[
+         "Una copia de seguridad",
+         "Una división lógica del disco",
+         "Un tipo de virus",
+         "Un formato de archivo"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla URL?",
+      "answers":[
+         "Uniform Resource Locator",
+         "Universal Resource Link",
+         "Unified Remote Location",
+         "Universal Resource List"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la memoria caché en un procesador?",
+      "answers":[
+         "Memoria de respaldo",
+         "Memoria rápida para acelerar el acceso a datos frecuentes",
+         "Memoria de almacenamiento externo",
+         "Memoria virtual"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál de los siguientes es un ejemplo de software de oficina?",
+      "answers":[
+         "Microsoft Excel",
+         "Mozilla Firefox",
+         "Adobe Photoshop",
+         "Visual Studio"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una dirección IPv4 válida?",
+      "answers":[
+         "256.256.256.256",
+         "192.168.0.1",
+         "abcd::1234",
+         "localhost"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la fragmentación en un disco duro?",
+      "answers":[
+         "La división del disco en partes",
+         "La dispersión de archivos en sectores no contiguos",
+         "Una actualización de software",
+         "Un tipo de virus"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla SQL?",
+      "answers":[
+         "Structured Query Language",
+         "Simple Query Link",
+         "Sequential Query Logic",
+         "Standard Quality Level"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un algoritmo?",
+      "answers":[
+         "Un conjunto de instrucciones para resolver un problema",
+         "Un tipo de hardware",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el sistema de archivos NTFS?",
+      "answers":[
+         "Un tipo de memoria RAM",
+         "Un sistema de archivos usado por Windows",
+         "Un protocolo de red",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el kernel en un sistema operativo?",
+      "answers":[
+         "La interfaz gráfica de usuario",
+         "El núcleo que gestiona recursos de hardware",
+         "Un software antivirus",
+         "Un dispositivo de entrada"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una cookie en el contexto de navegación web?",
+      "answers":[
+         "Un tipo de virus",
+         "Un archivo que almacena información de usuario",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una impresora de red?",
+      "answers":[
+         "Una impresora conectada directamente a un ordenador",
+         "Una impresora disponible para múltiples usuarios en una red",
+         "Una impresora inalámbrica",
+         "Una impresora virtual"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla GPU?",
+      "answers":[
+         "General Processing Unit",
+         "Graphics Processing Unit",
+         "Global Performance Unit",
+         "Graphical Protocol Unit"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un archivo ejecutable?",
+      "answers":[
+         "Un archivo que contiene texto",
+         "Un archivo que puede ser ejecutado por el sistema operativo",
+         "Un archivo comprimido",
+         "Un archivo de imagen"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un proxy en redes?",
+      "answers":[
+         "Un servidor que actúa como intermediario en las solicitudes de clientes",
+         "Un tipo de cable de red",
+         "Un protocolo de transferencia",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el lenguaje de programación Java?",
+      "answers":[
+         "Un lenguaje de bajo nivel",
+         "Un lenguaje orientado a objetos",
+         "Un sistema operativo",
+         "Un software antivirus"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una red inalámbrica?",
+      "answers":[
+         "Una red que utiliza cables",
+         "Una red que no utiliza cables para la comunicación",
+         "Una red local",
+         "Una red de área amplia"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el sistema operativo Windows?",
+      "answers":[
+         "Un software de oficina",
+         "Un sistema operativo desarrollado por Microsoft",
+         "Un lenguaje de programación",
+         "Un hardware de almacenamiento"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la virtualización de servidores?",
+      "answers":[
+         "La eliminación de servidores físicos",
+         "La creación de múltiples servidores virtuales en un solo hardware físico",
+         "La actualización de servidores",
+         "La conexión de servidores a Internet"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el malware?",
+      "answers":[
+         "Software diseñado para proteger el ordenador",
+         "Software malicioso que daña o accede sin autorización",
+         "Un tipo de hardware",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la sigla BIOS?",
+      "answers":[
+         "Basic Input/Output System",
+         "Binary Internet Operating System",
+         "Basic Integrated Output System",
+         "Binary Input Operating System"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un ataque de denegación de servicio (DoS)?",
+      "answers":[
+         "Un ataque para obtener información confidencial",
+         "Un ataque que sobrecarga un sistema para hacerlo inaccesible",
+         "Un tipo de malware",
+         "Un fallo del sistema"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la dirección de loopback en redes?",
+      "answers":[
+         "127.0.0.1",
+         "192.168.0.1",
+         "255.255.255.0",
+         "0.0.0.0"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el comando 'ping' utilizado en redes?",
+      "answers":[
+         "Para listar los dispositivos conectados",
+         "Para comprobar la conectividad con otro dispositivo",
+         "Para configurar direcciones IP",
+         "Para transferir archivos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un sistema de gestión de contenidos (CMS)?",
+      "answers":[
+         "Un software para crear y administrar contenido web",
+         "Un lenguaje de programación",
+         "Un tipo de hardware",
+         "Un protocolo de red"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la virtualización de aplicaciones?",
+      "answers":[
+         "Ejecutar aplicaciones en un entorno virtual",
+         "Instalar aplicaciones en múltiples dispositivos",
+         "Eliminar aplicaciones",
+         "Actualizar aplicaciones"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una VLAN en redes?",
+      "answers":[
+         "Una red local virtual",
+         "Una red inalámbrica",
+         "Un protocolo de transferencia",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un hipervisor en virtualización?",
+      "answers":[
+         "Un software que crea y ejecuta máquinas virtuales",
+         "Un tipo de hardware",
+         "Un lenguaje de programación",
+         "Un protocolo de red"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el comando 'ipconfig' en Windows?",
+      "answers":[
+         "Muestra la configuración IP del sistema",
+         "Muestra los procesos en ejecución",
+         "Inicia el explorador de archivos",
+         "Configura la impresora predeterminada"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una actualización de firmware?",
+      "answers":[
+         "Una actualización del software del sistema operativo",
+         "Una actualización del software integrado en el hardware",
+         "Una actualización de aplicaciones de oficina",
+         "Una actualización de antivirus"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la memoria ROM?",
+      "answers":[
+         "Memoria de sólo lectura",
+         "Memoria de acceso aleatorio",
+         "Memoria de almacenamiento externo",
+         "Memoria virtual"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el protocolo IMAP?",
+      "answers":[
+         "Protocolo para enviar correos electrónicos",
+         "Protocolo para acceder y gestionar correos electrónicos en un servidor",
+         "Protocolo para transferir archivos",
+         "Protocolo para navegación web segura"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una aplicación de código cerrado?",
+      "answers":[
+         "Software cuyo código fuente está disponible",
+         "Software cuyo código fuente no está disponible al público",
+         "Software gratuito",
+         "Software en versión beta"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el comando 'mkdir' en Linux?",
+      "answers":[
+         "Elimina un directorio",
+         "Crea un directorio",
+         "Cambia el directorio actual",
+         "Lista archivos y directorios"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el protocolo POP3?",
+      "answers":[
+         "Protocolo para enviar correos electrónicos",
+         "Protocolo para recibir correos electrónicos",
+         "Protocolo para transferencia de archivos",
+         "Protocolo de resolución de nombres de dominio"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un sistema de archivos?",
+      "answers":[
+         "Un tipo de hardware",
+         "Una forma de organizar y almacenar archivos en un dispositivo de almacenamiento",
+         "Un lenguaje de programación",
+         "Un protocolo de red"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la encriptación en seguridad informática?",
+      "answers":[
+         "El proceso de convertir datos en un código para protegerlos",
+         "La eliminación de virus",
+         "La compresión de archivos",
+         "La actualización de software"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un router en redes?",
+      "answers":[
+         "Un dispositivo que conecta redes y dirige el tráfico",
+         "Un dispositivo de almacenamiento",
+         "Un tipo de cable de red",
+         "Un protocolo de seguridad"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el comando 'sudo' en Linux?",
+      "answers":[
+         "Ejecutar comandos con privilegios de superusuario",
+         "Listar archivos y directorios",
+         "Cambiar el directorio actual",
+         "Eliminar archivos"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un certificado SSL?",
+      "answers":[
+         "Un protocolo de transferencia de archivos",
+         "Un certificado digital para establecer conexiones seguras",
+         "Un tipo de hardware",
+         "Un software antivirus"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el cloud computing?",
+      "answers":[
+         "Computación en dispositivos locales",
+         "Entrega de servicios de computación a través de Internet",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un script en Bash?",
+      "answers":[
+         "Un programa escrito para la shell de Unix/Linux",
+         "Un tipo de hardware",
+         "Un virus informático",
+         "Un protocolo de red"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un ataque de fuerza bruta?",
+      "answers":[
+         "Un intento de adivinar contraseñas probando muchas combinaciones",
+         "Un ataque que interrumpe el servicio",
+         "Un tipo de malware",
+         "Una técnica de ingeniería social"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la virtualización de escritorio?",
+      "answers":[
+         "Ejecutar un sistema operativo en una máquina virtual",
+         "Actualizar el sistema operativo",
+         "Compartir el escritorio en red",
+         "Eliminar aplicaciones del escritorio"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el comando 'rm' en Linux?",
+      "answers":[
+         "Crea un archivo",
+         "Elimina archivos o directorios",
+         "Cambia los permisos de archivos",
+         "Mueve archivos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el sistema operativo macOS?",
+      "answers":[
+         "Un sistema operativo desarrollado por Apple para sus ordenadores",
+         "Un lenguaje de programación",
+         "Un software de oficina",
+         "Un antivirus"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una base de datos relacional?",
+      "answers":[
+         "Una colección de datos organizada en tablas relacionadas",
+         "Un tipo de hardware",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el protocolo FTP?",
+      "answers":[
+         "Protocolo para transferir archivos",
+         "Protocolo para enviar correos electrónicos",
+         "Protocolo para navegación web",
+         "Protocolo para streaming de video"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un sistema de archivos FAT32?",
+      "answers":[
+         "Un sistema de archivos utilizado en Windows",
+         "Un tipo de hardware",
+         "Un protocolo de red",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la arquitectura cliente-servidor?",
+      "answers":[
+         "Una estructura donde múltiples servidores acceden a un cliente",
+         "Una estructura donde clientes solicitan servicios a un servidor",
+         "Un tipo de hardware",
+         "Un lenguaje de programación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un sistema de respaldo incremental?",
+      "answers":[
+         "Copia todos los datos cada vez",
+         "Copia sólo los datos modificados desde el último respaldo",
+         "No realiza copias de seguridad",
+         "Copia los datos al azar"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una red P2P (peer-to-peer)?",
+      "answers":[
+         "Una red donde todos los nodos actúan como clientes y servidores",
+         "Una red cliente-servidor",
+         "Una red inalámbrica",
+         "Una red de área amplia"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un dispositivo periférico?",
+      "answers":[
+         "Un componente interno del ordenador",
+         "Un dispositivo externo conectado al ordenador",
+         "Un software de aplicación",
+         "Un tipo de virus"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la inteligencia artificial?",
+      "answers":[
+         "El estudio de cómo programar computadoras para realizar tareas inteligentes",
+         "Un tipo de hardware",
+         "Un lenguaje de programación",
+         "Un dispositivo de almacenamiento"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la memoria virtual?",
+      "answers":[
+         "Memoria física instalada en el ordenador",
+         "Espacio en el disco duro utilizado como memoria RAM adicional",
+         "Memoria ROM",
+         "Memoria caché"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el protocolo SSL/TLS?",
+      "answers":[
+         "Protocolo para enviar correos electrónicos",
+         "Protocolos para asegurar la comunicación a través de Internet",
+         "Protocolo para transferencia de archivos",
+         "Protocolo de resolución de nombres de dominio"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un sistema operativo de código abierto?",
+      "answers":[
+         "Un sistema operativo cuyo código fuente está disponible para el público",
+         "Un sistema operativo propietario",
+         "Un sistema operativo sin interfaz gráfica",
+         "Un sistema operativo desactualizado"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el software propietario?",
+      "answers":[
+         "Software cuyo código fuente está disponible",
+         "Software que requiere una licencia y cuyo código no está disponible",
+         "Software gratuito",
+         "Software en versión beta"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el protocolo TCP/IP?",
+      "answers":[
+         "Un conjunto de protocolos fundamentales para Internet",
+         "Un lenguaje de programación",
+         "Un tipo de hardware",
+         "Un software antivirus"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un archivo comprimido?",
+      "answers":[
+         "Un archivo ejecutable",
+         "Un archivo que ha sido reducido en tamaño",
+         "Un archivo de imagen",
+         "Un archivo de texto"
+      ],
+      "correct_answer":1
+   }
+]
