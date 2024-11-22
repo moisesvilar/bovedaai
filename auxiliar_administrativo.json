@@ -1,0 +1,1112 @@
+[
+   {
+      "question":"¿Cuál es la norma suprema del ordenamiento jurídico español?",
+      "answers":[
+         "El Código Civil",
+         "La Constitución Española",
+         "El Estatuto de Autonomía",
+         "La Ley Orgánica"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿En qué año se aprobó la Constitución Española vigente?",
+      "answers":[
+         "1975",
+         "1978",
+         "1981",
+         "1986"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál de los siguientes no es un poder del Estado español?",
+      "answers":[
+         "Poder Legislativo",
+         "Poder Ejecutivo",
+         "Poder Judicial",
+         "Poder Económico"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué institución representa al poder legislativo en España?",
+      "answers":[
+         "El Gobierno",
+         "Las Cortes Generales",
+         "El Tribunal Supremo",
+         "El Consejo de Ministros"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Quién ostenta la Jefatura del Estado en España?",
+      "answers":[
+         "El Presidente del Gobierno",
+         "El Rey",
+         "El Ministro del Interior",
+         "El Presidente del Senado"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es la lengua oficial del Estado español según la Constitución?",
+      "answers":[
+         "El catalán",
+         "El euskera",
+         "El gallego",
+         "El castellano"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué tipo de Estado es España según su Constitución?",
+      "answers":[
+         "Estado centralizado",
+         "Estado federal",
+         "Estado autonómico",
+         "Estado confederal"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es el órgano que controla la constitucionalidad de las leyes en España?",
+      "answers":[
+         "El Tribunal Constitucional",
+         "El Tribunal Supremo",
+         "El Consejo de Estado",
+         "El Defensor del Pueblo"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué derecho fundamental protege la inviolabilidad del domicilio?",
+      "answers":[
+         "Derecho a la intimidad",
+         "Derecho a la libertad",
+         "Derecho a la propiedad",
+         "Derecho a la seguridad"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Quién tiene la facultad de sancionar y promulgar las leyes en España?",
+      "answers":[
+         "El Presidente del Gobierno",
+         "El Congreso de los Diputados",
+         "El Rey",
+         "El Tribunal Constitucional"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es el período para convocar elecciones generales tras la disolución de las Cortes?",
+      "answers":[
+         "30 días",
+         "60 días",
+         "90 días",
+         "120 días"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué mayoría es necesaria para reformar la Constitución en España?",
+      "answers":[
+         "Mayoría simple",
+         "Mayoría absoluta",
+         "Mayoría de tres quintos",
+         "Unanimidad"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál de los siguientes no es un principio de la administración pública según la Constitución?",
+      "answers":[
+         "Eficacia",
+         "Jerarquía",
+         "Descentralización",
+         "Privacidad"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué órgano es competente para elaborar el Presupuesto General del Estado?",
+      "answers":[
+         "El Congreso de los Diputados",
+         "El Senado",
+         "El Gobierno",
+         "El Tribunal de Cuentas"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es la edad mínima para ser elegido Diputado en España?",
+      "answers":[
+         "18 años",
+         "21 años",
+         "23 años",
+         "25 años"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué institución es la encargada de proponer al Rey el nombramiento del Presidente del Gobierno?",
+      "answers":[
+         "El Congreso de los Diputados",
+         "El Senado",
+         "El Consejo de Ministros",
+         "Las Cortes Generales"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué derecho garantiza la libertad de expresión en España?",
+      "answers":[
+         "Derecho a la información",
+         "Derecho a la comunicación",
+         "Derecho a la libre difusión",
+         "Derecho a la libertad de expresión"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué órgano fiscaliza la gestión económica del Estado y del sector público?",
+      "answers":[
+         "El Tribunal Constitucional",
+         "El Tribunal de Cuentas",
+         "El Banco de España",
+         "El Ministerio de Hacienda"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el órgano supremo consultivo del Gobierno de España?",
+      "answers":[
+         "El Consejo de Estado",
+         "El Consejo General del Poder Judicial",
+         "El Consejo Económico y Social",
+         "El Senado"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué institución defiende los derechos fundamentales de los ciudadanos en España?",
+      "answers":[
+         "El Defensor del Pueblo",
+         "El Tribunal Supremo",
+         "El Ministerio de Justicia",
+         "El Consejo de Ministros"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Quién nombra a los Magistrados del Tribunal Constitucional?",
+      "answers":[
+         "El Rey",
+         "El Congreso y el Senado",
+         "El Consejo General del Poder Judicial",
+         "El Gobierno"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el mandato de los jueces y magistrados en España?",
+      "answers":[
+         "Vitalicio",
+         "5 años",
+         "10 años",
+         "15 años"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué principio garantiza que las actuaciones administrativas sean públicas?",
+      "answers":[
+         "Transparencia",
+         "Eficacia",
+         "Economía",
+         "Legalidad"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál de los siguientes no es un órgano constitucional en España?",
+      "answers":[
+         "El Congreso de los Diputados",
+         "El Senado",
+         "El Consejo General del Poder Judicial",
+         "El Ayuntamiento"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué órgano aprueba los Estatutos de Autonomía en España?",
+      "answers":[
+         "El Gobierno",
+         "Las Cortes Generales",
+         "El Tribunal Constitucional",
+         "El Consejo de Ministros"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué derecho fundamental protege la libertad de culto en España?",
+      "answers":[
+         "Derecho a la educación",
+         "Derecho a la libertad ideológica y religiosa",
+         "Derecho a la igualdad",
+         "Derecho a la seguridad"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Quién es el encargado de dirigir la política interior y exterior en España?",
+      "answers":[
+         "El Rey",
+         "El Presidente del Gobierno",
+         "El Ministro de Asuntos Exteriores",
+         "El Congreso de los Diputados"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué institución tiene la función de promover y proteger los derechos humanos en España?",
+      "answers":[
+         "El Defensor del Pueblo",
+         "El Tribunal Supremo",
+         "El Ministerio de Justicia",
+         "El Consejo General del Poder Judicial"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es el máximo órgano jurisdiccional en todos los órdenes en España?",
+      "answers":[
+         "El Tribunal Constitucional",
+         "El Tribunal Supremo",
+         "La Audiencia Nacional",
+         "El Consejo General del Poder Judicial"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué principio implica que la Administración Pública actúa con sometimiento pleno a la ley y al Derecho?",
+      "answers":[
+         "Legalidad",
+         "Eficacia",
+         "Transparencia",
+         "Descentralización"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué órgano es competente para declarar el estado de alarma en España?",
+      "answers":[
+         "El Congreso de los Diputados",
+         "El Gobierno",
+         "El Senado",
+         "El Tribunal Constitucional"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el instrumento a través del cual se regula la organización y funcionamiento de las Comunidades Autónomas?",
+      "answers":[
+         "La Constitución",
+         "Las Leyes Orgánicas",
+         "Los Estatutos de Autonomía",
+         "Los Reglamentos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué derecho garantiza la protección de datos personales en España?",
+      "answers":[
+         "Derecho a la intimidad",
+         "Derecho a la información",
+         "Derecho a la libertad de expresión",
+         "Derecho a la igualdad"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Quién ejerce la potestad reglamentaria en España?",
+      "answers":[
+         "El Rey",
+         "El Gobierno",
+         "El Congreso de los Diputados",
+         "El Tribunal Supremo"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué órgano controla la actividad del Gobierno en España?",
+      "answers":[
+         "El Senado",
+         "El Congreso de los Diputados",
+         "El Tribunal Constitucional",
+         "El Consejo de Estado"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el plazo máximo para resolver un procedimiento administrativo en España si no está establecido por norma?",
+      "answers":[
+         "1 mes",
+         "3 meses",
+         "6 meses",
+         "1 año"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué tipo de recurso se interpone contra actos administrativos que ponen fin a la vía administrativa?",
+      "answers":[
+         "Recurso de alzada",
+         "Recurso potestativo de reposición",
+         "Recurso extraordinario de revisión",
+         "Recurso contencioso-administrativo"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué es el silencio administrativo positivo?",
+      "answers":[
+         "Desestimación de la solicitud",
+         "Estimación de la solicitud",
+         "Archivo del expediente",
+         "Inadmisión de la solicitud"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Quién es competente para dictar actos administrativos de carácter general?",
+      "answers":[
+         "El Rey",
+         "El Gobierno",
+         "Los Ministros",
+         "Los Directores Generales"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué documento es necesario para iniciar un procedimiento administrativo a instancia de parte?",
+      "answers":[
+         "Una solicitud",
+         "Un informe",
+         "Una resolución",
+         "Un dictamen"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué órgano resuelve los recursos de alzada en la Administración General del Estado?",
+      "answers":[
+         "El superior jerárquico del que dictó el acto",
+         "El Ministro competente",
+         "El Consejo de Ministros",
+         "El Tribunal Supremo"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Cuál es el plazo para interponer un recurso de reposición?",
+      "answers":[
+         "15 días",
+         "1 mes",
+         "2 meses",
+         "6 meses"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué principio rige la actuación de los empleados públicos en España?",
+      "answers":[
+         "Jerarquía",
+         "Neutralidad política",
+         "Libre designación",
+         "Arbitrariedad"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál de los siguientes es un derecho de los ciudadanos en sus relaciones con la Administración?",
+      "answers":[
+         "Obligación de colaborar",
+         "Derecho a ser informado del estado de las actuaciones",
+         "Deber de confidencialidad",
+         "Obligación de comparecer personalmente"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la notificación en el procedimiento administrativo?",
+      "answers":[
+         "La publicación en el BOE",
+         "La comunicación formal de una resolución",
+         "La presentación de una solicitud",
+         "El inicio de un recurso"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa que un acto administrativo es nulo de pleno derecho?",
+      "answers":[
+         "Es válido pero anulable",
+         "Es válido y eficaz",
+         "No produce efectos jurídicos",
+         "Es subsanable"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué órgano es competente para interponer el recurso contencioso-administrativo?",
+      "answers":[
+         "El ciudadano afectado",
+         "El superior jerárquico",
+         "El Tribunal Constitucional",
+         "El Defensor del Pueblo"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es un acto administrativo firme?",
+      "answers":[
+         "Aquel contra el que cabe recurso",
+         "Aquel que ha sido notificado",
+         "Aquel contra el que no cabe recurso ordinario",
+         "Aquel que es provisional"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Cuál es el máximo órgano de gobierno del municipio en España?",
+      "answers":[
+         "El Alcalde",
+         "El Pleno del Ayuntamiento",
+         "La Junta de Gobierno Local",
+         "El Secretario Municipal"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué son los Bandos en el ámbito municipal?",
+      "answers":[
+         "Ordenanzas municipales",
+         "Edictos del Alcalde",
+         "Resoluciones judiciales",
+         "Actos administrativos generales"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Quién es el encargado de la fe pública en el Ayuntamiento?",
+      "answers":[
+         "El Alcalde",
+         "El Secretario Municipal",
+         "El Interventor",
+         "El Concejal de Hacienda"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué función tiene el Registro de Entrada y Salida en una Administración Pública?",
+      "answers":[
+         "Controlar el personal",
+         "Gestionar los documentos recibidos y enviados",
+         "Almacenar bienes materiales",
+         "Registrar actos jurídicos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el horario mínimo de atención al público en las oficinas de la Administración General del Estado?",
+      "answers":[
+         "30 horas semanales",
+         "35 horas semanales",
+         "37.5 horas semanales",
+         "40 horas semanales"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es el Archivo General en una administración pública?",
+      "answers":[
+         "El lugar donde se guardan documentos históricos",
+         "El conjunto de documentos en trámite",
+         "El lugar donde se archivan expedientes finalizados",
+         "El registro de personal"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué documento acredita la identidad de los ciudadanos españoles?",
+      "answers":[
+         "El pasaporte",
+         "El carnet de conducir",
+         "El Documento Nacional de Identidad",
+         "El certificado de empadronamiento"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es un certificado electrónico reconocido?",
+      "answers":[
+         "Un documento en papel",
+         "Un certificado de estudios",
+         "Un medio de identificación digital",
+         "Una acreditación profesional"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué ley regula la protección de datos personales en España?",
+      "answers":[
+         "Ley de Transparencia",
+         "Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales",
+         "Ley de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+         "Ley de Procedimiento Administrativo Común"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la firma electrónica avanzada?",
+      "answers":[
+         "Una firma digitalizada",
+         "Una firma electrónica con mayor seguridad",
+         "Una contraseña",
+         "Una firma manuscrita"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa interoperabilidad en el ámbito de la administración electrónica?",
+      "answers":[
+         "La capacidad de trabajar de forma conjunta",
+         "La seguridad de los datos",
+         "La protección de la privacidad",
+         "La rapidez en la tramitación"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el Punto de Acceso General de la Administración?",
+      "answers":[
+         "Una oficina física",
+         "Un portal web único para acceder a servicios públicos",
+         "Un servicio telefónico",
+         "Una aplicación móvil"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Cuál es el objetivo principal de la Ley de Transparencia?",
+      "answers":[
+         "Proteger datos personales",
+         "Garantizar el acceso a la información pública",
+         "Regular el comercio electrónico",
+         "Promover la participación ciudadana en elecciones"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el expediente electrónico?",
+      "answers":[
+         "Un documento en papel",
+         "Un conjunto de documentos electrónicos relacionados",
+         "Un archivo de sonido",
+         "Una base de datos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué órgano coordina la administración electrónica en España?",
+      "answers":[
+         "El Ministerio de Justicia",
+         "El Ministerio de Hacienda",
+         "La Secretaría General de Administración Digital",
+         "El Tribunal Constitucional"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la sede electrónica de una administración pública?",
+      "answers":[
+         "La oficina principal",
+         "El portal web oficial para trámites electrónicos",
+         "Un centro de atención telefónica",
+         "Un lugar de almacenamiento de datos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué se entiende por dato de carácter personal?",
+      "answers":[
+         "Información sobre empresas",
+         "Información sobre actividades económicas",
+         "Información sobre personas físicas identificadas o identificables",
+         "Información anónima"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la inscripción de salida en el Registro Administrativo?",
+      "answers":[
+         "La anotación de documentos recibidos",
+         "La anotación de documentos enviados",
+         "La baja de un empleado",
+         "La salida de mercancías"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué plazo tiene la Administración para responder a una solicitud de acceso a la información pública?",
+      "answers":[
+         "10 días",
+         "20 días",
+         "1 mes",
+         "3 meses"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el Portal de Transparencia?",
+      "answers":[
+         "Una oficina física",
+         "Un sitio web donde se publica información de la Administración",
+         "Un programa informático",
+         "Un boletín oficial"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué tipo de información se publica en el Portal de Transparencia?",
+      "answers":[
+         "Información privada",
+         "Información reservada",
+         "Información pública relevante",
+         "Publicidad comercial"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Quién es el responsable del tratamiento de datos personales en una entidad?",
+      "answers":[
+         "El encargado del tratamiento",
+         "El delegado de protección de datos",
+         "El responsable del tratamiento",
+         "El titular de los datos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué derecho tiene una persona sobre sus datos personales según la normativa de protección de datos?",
+      "answers":[
+         "Derecho al olvido",
+         "Derecho a la oposición",
+         "Derecho de acceso",
+         "Todos los anteriores"
+      ],
+      "correct_answer":3
+   },
+   {
+      "question":"¿Qué es un sistema de información en el ámbito administrativo?",
+      "answers":[
+         "Un conjunto de equipos informáticos",
+         "Un conjunto de datos aislados",
+         "Un conjunto organizado de recursos que permite gestionar información",
+         "Un manual de procedimientos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la administración electrónica?",
+      "answers":[
+         "La informatización de procedimientos internos",
+         "La relación electrónica entre ciudadanos y Administración",
+         "El uso de correo electrónico",
+         "La externalización de servicios"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa notificación electrónica por comparecencia?",
+      "answers":[
+         "Notificación en papel",
+         "Notificación a través de publicación en un tablón",
+         "Notificación mediante acceso del interesado a la sede electrónica",
+         "Notificación por correo electrónico"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la política de seguridad de la información?",
+      "answers":[
+         "Un documento que establece las directrices para proteger la información",
+         "Un sistema antivirus",
+         "Una medida disciplinaria",
+         "Un procedimiento de archivo"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el Esquema Nacional de Interoperabilidad?",
+      "answers":[
+         "Un conjunto de normas técnicas para la seguridad",
+         "Un marco normativo para asegurar la interoperabilidad de sistemas y datos",
+         "Un plan de formación",
+         "Una base de datos nacional"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué órgano supervisa el cumplimiento de la normativa de protección de datos en España?",
+      "answers":[
+         "El Defensor del Pueblo",
+         "La Agencia Española de Protección de Datos",
+         "El Tribunal Supremo",
+         "El Ministerio de Justicia"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el expediente administrativo?",
+      "answers":[
+         "Un conjunto de documentos y actuaciones relacionados con un procedimiento",
+         "Un archivo histórico",
+         "Un documento aislado",
+         "Una base de datos"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué significa que un documento es original en formato electrónico?",
+      "answers":[
+         "Que es una copia escaneada",
+         "Que ha sido firmado electrónicamente por el emisor",
+         "Que está en papel",
+         "Que es una fotocopia"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es la ventanilla única en la Administración Pública?",
+      "answers":[
+         "Una oficina con un único empleado",
+         "Un sistema que permite realizar múltiples trámites en un solo lugar",
+         "Un portal de empleo público",
+         "Una plataforma de contratación"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el sellado de tiempo en documentos electrónicos?",
+      "answers":[
+         "Una marca que indica la hora y fecha de creación",
+         "Una firma electrónica",
+         "Un código de barras",
+         "Un sistema de encriptación"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la carpeta ciudadana?",
+      "answers":[
+         "Un fichero físico",
+         "Un servicio que permite al ciudadano acceder a sus expedientes y notificaciones electrónicas",
+         "Un programa informático",
+         "Un registro de población"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el derecho de acceso a la información pública?",
+      "answers":[
+         "El derecho a recibir información privada",
+         "El derecho a acceder a archivos secretos",
+         "El derecho a solicitar y obtener información de las administraciones públicas",
+         "El derecho a modificar datos públicos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es un órgano colegiado en la Administración?",
+      "answers":[
+         "Un órgano unipersonal",
+         "Un órgano compuesto por varias personas que toman decisiones de forma conjunta",
+         "Un departamento administrativo",
+         "Un organismo autónomo"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué función tiene el Boletín Oficial del Estado (BOE)?",
+      "answers":[
+         "Publicar leyes y disposiciones de carácter general",
+         "Informar sobre noticias locales",
+         "Publicar anuncios comerciales",
+         "Divulgar información científica"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una norma con rango de ley?",
+      "answers":[
+         "Un reglamento",
+         "Una orden ministerial",
+         "Un decreto ley",
+         "Una instrucción"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué principio garantiza que los ciudadanos pueden relacionarse con la Administración en cualquiera de las lenguas oficiales de su comunidad autónoma?",
+      "answers":[
+         "Principio de igualdad",
+         "Principio de oficialidad",
+         "Principio de pluralidad lingüística",
+         "Principio de eficacia"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la delegación de competencias en el ámbito administrativo?",
+      "answers":[
+         "La transmisión de funciones entre órganos administrativos",
+         "La sustitución temporal de un empleado",
+         "La contratación de servicios externos",
+         "La asignación de tareas a subordinados"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una licencia administrativa?",
+      "answers":[
+         "Un permiso concedido por la Administración para realizar una actividad",
+         "Un certificado académico",
+         "Un documento de identidad",
+         "Un contrato laboral"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es la fe pública administrativa?",
+      "answers":[
+         "La confianza en la Administración",
+         "La garantía de autenticidad de actos y documentos administrativos",
+         "La transparencia informativa",
+         "La legalidad de las actuaciones"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un convenio entre administraciones públicas?",
+      "answers":[
+         "Un acuerdo entre entidades públicas para cooperar en materias de interés común",
+         "Un contrato laboral",
+         "Un acto legislativo",
+         "Una resolución judicial"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué significa que un acto administrativo es favorable?",
+      "answers":[
+         "Que es beneficioso para el interesado",
+         "Que es negativo para el interesado",
+         "Que es nulo",
+         "Que es anulable"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el trámite de audiencia en el procedimiento administrativo?",
+      "answers":[
+         "Una consulta pública",
+         "Un periodo en el que los interesados pueden alegar y presentar documentos",
+         "La notificación de una resolución",
+         "La publicación en el BOE"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una tasa en el ámbito de las administraciones públicas?",
+      "answers":[
+         "Un impuesto sobre la renta",
+         "Un precio público",
+         "Una contraprestación por la prestación de un servicio público o realización de una actividad administrativa",
+         "Una multa"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es el principio de economía procesal?",
+      "answers":[
+         "Reducir costes administrativos",
+         "Simplificar y agilizar los procedimientos",
+         "Limitar el acceso a la información",
+         "Eliminar trámites innecesarios"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una administración pública instrumental?",
+      "answers":[
+         "Una entidad privada",
+         "Un organismo que depende de una administración pública para la realización de actividades específicas",
+         "Un departamento ministerial",
+         "Un ente territorial"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la responsabilidad patrimonial de la Administración?",
+      "answers":[
+         "La obligación de indemnizar a los ciudadanos por daños causados por su funcionamiento",
+         "La gestión de bienes públicos",
+         "La propiedad de activos",
+         "La gestión presupuestaria"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una disposición derogatoria?",
+      "answers":[
+         "Una norma que introduce nuevos derechos",
+         "Una norma que modifica otra anterior",
+         "Una norma que deja sin efecto otra norma anterior",
+         "Una norma que establece sanciones"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es el principio de irretroactividad de las disposiciones sancionadoras no favorables?",
+      "answers":[
+         "Que las normas se aplican siempre hacia el pasado",
+         "Que las normas no se aplican a hechos anteriores a su entrada en vigor si son desfavorables",
+         "Que las normas se aplican a cualquier situación",
+         "Que las normas favorables no se aplican retroactivamente"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un reglamento en el ámbito jurídico?",
+      "answers":[
+         "Una ley orgánica",
+         "Una disposición de carácter general emanada del poder ejecutivo",
+         "Una sentencia judicial",
+         "Un convenio colectivo"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el principio de seguridad jurídica?",
+      "answers":[
+         "Garantizar la eficacia administrativa",
+         "Asegurar la estabilidad y coherencia del ordenamiento jurídico",
+         "Proteger los datos personales",
+         "Promover la transparencia"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una comunidad autónoma uniprovincial en España?",
+      "answers":[
+         "Una comunidad formada por una sola provincia",
+         "Una provincia con autonomía especial",
+         "Una ciudad autónoma",
+         "Una comunidad sin provincias"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es el principio de coordinación entre administraciones públicas?",
+      "answers":[
+         "La subordinación de unas a otras",
+         "La colaboración y cooperación para evitar duplicidades y contradicciones",
+         "La competencia entre ellas",
+         "La independencia absoluta"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es un contrato administrativo?",
+      "answers":[
+         "Un contrato entre particulares",
+         "Un acuerdo entre una administración pública y un particular para la prestación de servicios",
+         "Un contrato laboral",
+         "Un acuerdo internacional"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el poder adjudicador en la contratación pública?",
+      "answers":[
+         "La empresa que gana un contrato",
+         "La administración o entidad que convoca y adjudica contratos públicos",
+         "El tribunal de justicia",
+         "El interventor"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué significa la descentralización administrativa?",
+      "answers":[
+         "La concentración de competencias en el gobierno central",
+         "La distribución de competencias entre distintos entes territoriales",
+         "La privatización de servicios",
+         "La creación de empresas públicas"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es una encomienda de gestión entre administraciones?",
+      "answers":[
+         "Un encargo a una entidad privada",
+         "La delegación de competencias legislativas",
+         "El encargo de realización de actividades de carácter material o técnico a otra administración",
+         "La venta de activos"
+      ],
+      "correct_answer":2
+   },
+   {
+      "question":"¿Qué es la potestad sancionadora de la Administración?",
+      "answers":[
+         "La capacidad de dictar normas",
+         "La facultad de imponer sanciones por infracciones administrativas",
+         "La gestión presupuestaria",
+         "La prestación de servicios públicos"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el principio de legalidad en la actuación administrativa?",
+      "answers":[
+         "Actuar según criterios propios",
+         "Actuar conforme a la ley y al derecho",
+         "Actuar de forma discrecional",
+         "Actuar con rapidez"
+      ],
+      "correct_answer":1
+   },
+   {
+      "question":"¿Qué es el Consejo General del Poder Judicial?",
+      "answers":[
+         "El órgano de gobierno de los jueces y magistrados",
+         "Un tribunal de justicia",
+         "Un ministerio",
+         "Una comisión parlamentaria"
+      ],
+      "correct_answer":0
+   },
+   {
+      "question":"¿Qué es una iniciativa legislativa popular?",
+      "answers":[
+         "Una propuesta de ley presentada por el Gobierno",
+         "Una propuesta de ley presentada por los ciudadanos mediante la recogida de firmas",
+         "Una moción parlamentaria",
+         "Una consulta popular"
+      ],
+      "correct_answer":1
+   }
+]
